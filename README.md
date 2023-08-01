@@ -1,1 +1,18 @@
 # SQL_DATA_EXPLORATION
+
+In this project I did exploratory data analyis using SQL on covid-19 DATASET to demonstrate my compentency in SQL.
+
+skills used are
+SELECT + FROM
+WHERE CLAUSE
+ORDER BY
+GROUP BY
+AGGREGATE FUNCTIONS
+ALIAS
+JOINS
+CASE STATEMENT
+HAVING CLAUSE
+PARTITION BY
+TABLE MODIFICATION
+COMMON TABLE EXPRESSION (CTE)
+
